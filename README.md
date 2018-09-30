@@ -8,7 +8,7 @@ Pytorch Version:0.4.0
 Data directories is organized as follow:
 ```
 Data
-    ----Annotations
+    ----annotations
         ----annotations.json
         ----train.json
         ----val.json
