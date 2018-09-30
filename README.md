@@ -1,10 +1,9 @@
 # FaceRecognition
 This is a brief FaceRecognition code for Pytorch
-Pytorch Version:0.4.0
-Data directories should be like this
 
 ## Introduction
-We release code for [Light-Head R-CNN](https://arxiv.org/abs/1711.07264). 
+
+Pytorch Version:0.4.0
 
 Data directories is organized as follow:
 ```
